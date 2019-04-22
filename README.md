@@ -1,4 +1,4 @@
-![Roku Flashback logo](https://github.com/ShannonSL/Ali_S_StoltzLimin_S_3014_CMS/blob/shannon1/images/logo.png)
+![logo](https://github.com/ShannonSL/Ali_S_StoltzLimin_S_3014_CMS/blob/shannon1/images/logo.png)
 
 
 # Non-Integrated Custom CMS
