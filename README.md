@@ -16,7 +16,7 @@ A custom content management system to power a product/details site for Sportchek
 
 ### Installing
 
-A live sql server is needed to run this project. You must use a program like MAMP/WAMP, clone the repo to your htdocs, and navigate to it while the server is running.
+A live sql server is needed to run this project. You must use a program like MAMP/WAMP, clone the repo to your htdocs, import the database to PhpMyAdmin (db_sportchek) and navigate to it while the server is running.
 
 
 
