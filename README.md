@@ -11,7 +11,7 @@ A custom content management system to power a product/details site for Sportchek
 * Admins can log in through /admin with the proper credentials
 * Admin dashboard with navigation menu
 * Admins can create, update, and delete products on the site after login 
-* Easy on the eyes thans to MDS Bootstrap
+* Easy on the eyes thanks to MDS Bootstrap
 
 
 ### Installing
