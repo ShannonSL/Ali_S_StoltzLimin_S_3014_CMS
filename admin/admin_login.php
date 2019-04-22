@@ -84,11 +84,7 @@
         <ul class="navbar-nav nav-flex-icons ml-auto">
          
           
-          <li class="nav-item">
-            <a href="scripts/caller.php?caller_id=logout" class="nav-link border border-light rounded waves-effect">
-              <i class="far fa-id-badge mr-2"></i>Logout
-            </a>
-          </li>
+        
         </ul>
 
       </div>
@@ -119,7 +115,7 @@
               
 
               <h1 class="mb-4">
-                <strong>Administrator Panel</strong>
+                <strong>Administrator Login</strong>
               </h1>
 
             </div>
