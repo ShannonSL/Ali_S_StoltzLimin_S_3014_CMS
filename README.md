@@ -4,6 +4,8 @@
 # Non-Integrated Custom CMS
 A custom content management system to power a product/details site for Sportchek. The CMS allows admins to login, create, update, delete and filter products on the site. 
 
+# A live version of the site can be found [here](http://shadiaali.ca/cms/)
+
 
 # Features
 * 35 Products; 5 for each of the 7 categories 
